@@ -5,6 +5,9 @@ ARCH=$(cat DEBIAN/control | grep 'Architecture: '| sed 's/Architecture: //g')
 FOLDER="$PAK\_$VERSION\_$ARCH"
 FOLDER=$(echo "$FOLDER" | sed 's/\\//g')
 mkdir ../"$FOLDER"
+if [ ! -d "build" ]; then
+	mkdir build
+fi
 ##############################################################
 #							     #
 #							     #
@@ -55,8 +58,10 @@ if [ -d srv ]; then
 	cp -R srv ../"$FOLDER"/srv
 fi
 cp -R DEBIAN ../"$FOLDER"/DEBIAN
+base="$PWD"
 cd ..
 #DELETE STUFF HERE
 #build the shit
 dpkg-deb --build "$FOLDER"
 rm -rf "$FOLDER"
+cp "{$FOLDER}.deb" "${base}/build"
