@@ -64,4 +64,4 @@ cd ..
 #build the shit
 dpkg-deb --build "$FOLDER"
 rm -rf "$FOLDER"
-cp "{$FOLDER}.deb" "${base}/build"
+cp "$FOLDER.deb" "$base/build"
