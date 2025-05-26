@@ -1,0 +1,15 @@
+Package: drauger-settings-plasma
+Source: kubuntu-settings-desktop
+Version: 1.0.4
+Architecture: all
+Maintainer: Thomas Castleman <batcastle@draugeros.org>
+Depends: fonts-ubuntu, libnewt0.52 (>= 0.52.11-2ubuntu7), plasma-workspace (>= 4:5.18.0~), drauger-plasma-theme
+Conflicts: neon-all, neon-desktop, neon-settings, neon-settings-2, ubuntustudio-default-settings, kubuntu-settings-desktop
+Breaks: kubuntu-default-settings, kubuntu-driver-manager, plasma-nm (<< 0.9.3.1-0ubuntu1)
+Section: kde
+Priority: optional
+Description: Settings and artwork for the Drauger OS (Desktop)
+ This package contains settings used by Drauger OS. It also
+ includes artwork and Drauger OS branding.
+ .
+ The settings apply to plasma-desktop based workspaces.

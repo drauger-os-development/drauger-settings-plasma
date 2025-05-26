@@ -1,0 +1,12 @@
+/etc/X11/Xsession.d/70vlc-plugin-path
+/etc/X11/Xsession.d/70xdg-drauger-dir
+/etc/X11/Xsession.d/80drauger-xmodmap
+/etc/fonts/conf.avail/56-drauger-noto.conf
+/etc/kde4rc
+/etc/drauger-default-settings/directory-home
+/etc/drauger-default-settings/directory-media
+/etc/drauger-default-settings/hidden-media
+/etc/skel/.config/korgacrc
+/etc/skel/.face
+/etc/xdg/kcm-about-distrorc
+/etc/xdg/kickoffrc
