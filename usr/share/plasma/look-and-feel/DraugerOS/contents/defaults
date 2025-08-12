@@ -2,16 +2,16 @@
 widgetStyle=Breeze
 
 [kdeglobals][General]
-ColorScheme=Breeze
+ColorScheme=BreezeDark
 
 [kdeglobals][Icons]
-Theme=breeze
+Theme=Papirus-Dark
 
 [plasmarc][Theme]
-name=DraugerOS
+name=Drauger OS
 
 [Wallpaper]
-Image=DraugerOS
+Image=Drauger OS
 defaultWallpaperTheme=DraugerOS
 
 [kcminputrc][Mouse]

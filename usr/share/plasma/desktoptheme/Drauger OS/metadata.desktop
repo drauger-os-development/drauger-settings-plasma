@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Drauger OS
+Comment=Drauger OS Desktop Theme
+X-KDE-PluginInfo-Author=Drauger OS Design Team
+X-KDE-PluginInfo-Email=contact@draugeros.org
+X-KDE-PluginInfo-Name=DraugerOS
+X-KDE-PluginInfo-Version=5.92.0
+X-KDE-PluginInfo-Website=https://github.com/drauger-os-development/drauger-plasma-theme
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Drauger OS
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=true
+contrast=0.17
+intensity=1.25
+saturation=9
+
+[AdaptiveTransparency]
+enabled=true
