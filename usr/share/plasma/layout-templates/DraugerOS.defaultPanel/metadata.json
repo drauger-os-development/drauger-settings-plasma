@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/LayoutTemplate",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "batcastle@draugeros.org",
+                "Name": "Thomas Castleman"
+            }
+        ],
+        "Category": "",
+        "EnabledByDefault": true,
+        "Id": "DraugerOS.defaultPanel",
+        "License": "LGPLv2+",
+        "Name": "Drauger OS Default Panel",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}

@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "batcastle@draugeros.org",
+                "Name": "Thomas Castleman"
+            }
+        ],
+        "Category": "",
+        "Description": "Default Drauger OS Desktop",
+        "Id": "DraugerOS",
+        "License": "GPLv2+",
+        "Name": "DraugerOS",
+        "Website": "https://www.draugeros.org"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}

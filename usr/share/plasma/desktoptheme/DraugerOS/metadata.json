@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "batcastle@draugeros.org",
+                "Name": "Thomas Castleman"
+            }
+        ],
+        "Category": "",
+        "Description": "Drauger OS",
+        "EnabledByDefault": true,
+        "Id": "DraugerOS",
+        "License": "LGPL",
+        "Name": "DraugerOS",
+        "Version": "22.04.5"
+    },
+    "X-Plasma-API": "5.0"
+}
