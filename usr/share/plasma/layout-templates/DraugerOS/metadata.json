@@ -9,7 +9,7 @@
         ],
         "Category": "",
         "EnabledByDefault": true,
-        "Id": "DraugerOS.defaultPanel",
+        "Id": "DraugerOS",
         "License": "LGPLv2+",
         "Name": "Drauger OS Default Panel",
         "ServiceTypes": [
