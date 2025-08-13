@@ -1,3 +1,9 @@
+[General]
+ColorScheme=Breeze Dark
+Name=Breeze Dark
+shadeSortColumn=true
+AccentColor=255,57,57
+
 [ColorEffects:Disabled]
 Color=56,56,56
 ColorAmount=0
@@ -127,12 +133,6 @@ DecorationFocus=255,57,57
 DecorationHover=255,57,57
 ForegroundActive=255,57,57
 
-
-[General]
-AccentColor=255,57,57
-ColorScheme=Breeze Dark
-Name=Breeze Dark
-shadeSortColumn=true
 
 [KDE]
 contrast=4
