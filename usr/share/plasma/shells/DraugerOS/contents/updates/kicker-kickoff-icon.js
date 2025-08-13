@@ -28,6 +28,6 @@ forEachWidget(function(widget, containment) {
     widget.currentConfigGroup = ["General"];
     print("Icon for " + widget.type + ": " + widget.readConfig("icon"));
     // If using the builtin hardcoded default, switch to the kubuntu icon
-    if (widget.readConfig("icon") == "")
-        widget.writeConfig("icon", "start-here-kubuntu")
+    // if (widget.readConfig("icon") == "")
+    //     widget.writeConfig("icon", "start-here-kubuntu")
 });

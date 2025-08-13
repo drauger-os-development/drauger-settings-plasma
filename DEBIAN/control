@@ -1,6 +1,6 @@
 Package: drauger-settings-plasma
 Source: kubuntu-settings-desktop
-Version: 1.2.0
+Version: 1.2.1
 Architecture: all
 Maintainer: Thomas Castleman <batcastle@draugeros.org>
 Depends: fonts-ubuntu, libnewt0.52 (>= 0.52.11-2ubuntu7), plasma-workspace (>= 4:5.18.0~), drauger-wallpaper

@@ -48,7 +48,7 @@ kickoff.currentConfigGroup = ["Shortcuts"]
 kickoff.writeConfig("global", "Alt+F1")
 kickoff.currentConfigGroup = ["Configuration/General"]
 kickoff.writeConfig("showAppsByName", "true")
-kickoff.writeConfig("icon","start-here-kubuntu")
+// kickoff.writeConfig("icon","start-here-kubuntu")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")
 panel.addWidget("org.kde.plasma.pager")
