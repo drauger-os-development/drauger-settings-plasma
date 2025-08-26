@@ -1,4 +1,4 @@
-loadTemplate("DraugerOS.defaultPanel")
+loadTemplate("DraugerOS")
 
 var desktopsArray = desktopsForActivity(currentActivity());
 for( var j = 0; j < desktopsArray.length; j++) {
