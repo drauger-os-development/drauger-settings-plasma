@@ -1,9 +1,9 @@
 Package: drauger-settings-plasma
 Source: kubuntu-settings-desktop
-Version: 1.2.4
+Version: 1.2.5
 Architecture: all
 Maintainer: Thomas Castleman <batcastle@draugeros.org>
-Depends: fonts-ubuntu, libnewt0.52 (>= 0.52.11-2ubuntu7), plasma-workspace (>= 4:5.18.0~), drauger-wallpaper
+Depends: fonts-ubuntu, libnewt0.52 (>= 0.52.11-2ubuntu7), plasma-workspace (>= 4:5.18.0~), drauger-wallpaper, base-files (>=2026.1.29)
 Conflicts: neon-all, neon-desktop, neon-settings, neon-settings-2, ubuntustudio-default-settings, kubuntu-settings-desktop, desktop-base
 Breaks: kubuntu-default-settings, kubuntu-driver-manager, plasma-nm (<< 0.9.3.1-0ubuntu1)
 Replaces: drauger-plasma-theme, drauger-splash
